@@ -1,0 +1,22 @@
+{
+  "name": "vitepress-tpl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs --host --port 9090",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@algolia/client-search": "^4.9.1",
+    "vitepress": "1.0.0-alpha.21",
+    "vue": "^3.2.41"
+  },
+  "engines": {
+    "node": ">=16.x"
+  }
+}
