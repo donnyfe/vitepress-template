@@ -9,7 +9,7 @@ export default ({ mode }) => {
 
   return defineConfig({
     base,
-    title: "Vitepress",
+    title: "AI-Prompt",
     description: "文档库",
     // Use git commit to get the timestamp
     lastUpdated: true,
