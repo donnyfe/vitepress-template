@@ -13,7 +13,7 @@
     "vitepress"
   ],
   "author": "donnyfe",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@algolia/client-search": "^5.6.1",
     "vitepress": "1.3.4",
