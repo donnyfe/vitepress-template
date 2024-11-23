@@ -1,6 +1,6 @@
-# donnyfe-tpl-vitepress
+# vitepress-docs-tpl
 
-一个 Vitepress 文档库应用模板
+文档库应用模板
 
 ## 安装
 
