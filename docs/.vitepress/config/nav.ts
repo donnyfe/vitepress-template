@@ -1,6 +1,6 @@
 export default [
-  {
-    text: 'Guide',
-    items: [{ text: "README", link: "/guide/README" }]
-  }
+	{
+		text: '指南',
+		items: [{ text: 'README', link: '/guide/README' }],
+	},
 ]
